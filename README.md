@@ -3,6 +3,8 @@
   💼  Public policy for developers, worldwide
 
   🏛  OECD network of experts on Artificial Intelligence policy
+  
+  📚  Williams, Oxford, Cambridge
 
   📫  pcihon@github.com
 
