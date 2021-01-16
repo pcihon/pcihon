@@ -4,7 +4,7 @@
 
   🏛  OECD network of experts on Artificial Intelligence policy
   
-  📜  Before: @governanceai, @mozilla, @ec-europa, and @lirneasia 
+  📜  Before: @governanceai, @mozilla, @ec-europa, @lirneasia, and @aclu-national
 
   📫  pcihon@github.com
 
