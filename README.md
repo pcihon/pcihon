@@ -1,6 +1,6 @@
 ### About me
 
-  💼  Public policy for developers, worldwide
+  💼  Public policy for developers & developer rights, worldwide
 
   🏛  OECD network of experts on Artificial Intelligence policy
   
