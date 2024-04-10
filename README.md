@@ -1,11 +1,12 @@
-### About me
+## Public Policy for Developers
 
-  💼  Public policy for developers
+### Research 
+[Latest paper](https://crfm.stanford.edu/open-fms/paper.pdf)
 
-  🏛  OECD network of experts on Artificial Intelligence policy
-  
-  📚  Williams, Oxford, Cambridge
+[All papers via Google Scholar](https://scholar.google.com/citations?user=UJz_uGkAAAAJ)
 
-  📫  pcihon[at]github.com | [LinkedIn](https://www.linkedin.com/in/pcihon/) | [Twitter](https://twitter.com/pcihon)
+[GitHub Innovation Graph](https://innovationgraph.github.com/insight-reports)
 
-  👇  you can contribute to GitHub's policies below
+### Contact
+pcihon[at]github.com | [LinkedIn](https://www.linkedin.com/in/pcihon/) | [X](https://twitter.com/pcihon)
+
